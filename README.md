@@ -1,2 +1,2 @@
-# sample-project
+# s-project
 
